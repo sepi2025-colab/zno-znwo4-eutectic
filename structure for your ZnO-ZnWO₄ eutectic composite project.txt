@@ -1,0 +1,7 @@
+zno-znwo4-eutectic/
+├── requirements.txt       # File listing Python dependencies
+├── simulation.ipynb       # Jupyter notebook with your simulation code
+├── data/                  # Folder for any input/output data (optional)
+│   ├── lamellar_structure.csv
+│   └── reflectivity_data.txt
+└── README.md              # Description of your project (optional but recommended)

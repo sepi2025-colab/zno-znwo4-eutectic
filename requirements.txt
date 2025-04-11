@@ -1,0 +1,4 @@
+meep
+numpy
+matplotlib
+scipy
